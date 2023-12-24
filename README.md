@@ -1,0 +1,2 @@
+# WanderSync
+Collaborative Travel Application
